@@ -1,8 +1,11 @@
 <div align="center">
-
-<p align="center">
-  <img src="./banner.gif" alt="Banner de Beatriz"">
-</p>
+  <img
+    src="./banner.gif"
+    alt="Banner de Beatriz"
+    width="1640"
+    height="924"
+  />
+</div>
 
 
 # Beatriz Ayade

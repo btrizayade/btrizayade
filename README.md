@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./banner.gif" alt="Banner de Beatriz" width="100%">
+  <img src="./banner.gif" alt="Banner de Beatriz"">
 </p>
 
 
